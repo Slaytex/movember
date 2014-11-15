@@ -1,4 +1,4 @@
-<?php $name=['','Mark Adams',
+<?php $name=array('', 'Mark Adams',
 'John Anthony',
 'Andrew Michael Barnet',
 'Charles W Beeson',
@@ -78,5 +78,5 @@
 'FifthFloor',
 'Tilloo Manoj',
 'Keith Maxon',
-];
+);
 ?>
